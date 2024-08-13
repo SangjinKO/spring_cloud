@@ -1,6 +1,6 @@
 # Spring Cloud
 
-Date: 2024.07
+Date: 2024.08
 
 Lessons learned during MSA(Spring Cloud) class
 - Eureka(Service Discovery)
